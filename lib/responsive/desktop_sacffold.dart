@@ -11,8 +11,6 @@ class DesktopScaffold extends StatefulWidget {
   State<DesktopScaffold> createState() => _DesktopScaffoldState();
 }
 
-final owaiz = 'Owais';
-
 class _DesktopScaffoldState extends State<DesktopScaffold> {
   @override
   Widget build(BuildContext context) {
